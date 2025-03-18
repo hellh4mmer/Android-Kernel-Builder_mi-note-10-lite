@@ -2,7 +2,7 @@
   {
     "kernelSource": {
       "name": "VantomKernel",
-      "repo": "https://github.com/devnoname120/kernel_xiaomi_sm6150",
+      "repo": "https://github.com/hellh4mmer/kernel_xiaomi_sm6150",
       "branch": "fifteen",
       "device": "toco",
       "defconfig": "toco_defconfig"
@@ -11,7 +11,7 @@
     "withSUSFS": false,
     "toolchains": [
       {
-        "repo": "https://github.com/devnoname120/pixelos-playgroundtc",
+        "repo": "https://github.com/hellh4mmer/pixelos-playgroundtc",
         "branch": "17",
         "name": "clang-playground",
         "binPath": ["./bin"]
@@ -40,14 +40,14 @@
     "AnyKernel3": {
       "use": true,
       "release": true,
-      "repo": "https://github.com/devnoname120/AnyKernel3/",
+      "repo": "https://github.com/hellh4mmer/AnyKernel3",
       "branch": "toco"
     }
   },
   {
     "kernelSource": {
       "name": "VantomKernel",
-      "repo": "https://github.com/devnoname120/kernel_xiaomi_sm6150",
+      "repo": "https://github.com/hellh4mmer/kernel_xiaomi_sm6150",
       "branch": "fifteen",
       "device": "toco",
       "defconfig": "toco_defconfig"
@@ -56,7 +56,7 @@
     "withSUSFS": false,
     "toolchains": [
       {
-        "repo": "https://github.com/devnoname120/pixelos-playgroundtc",
+        "repo": "https://github.com/hellh4mmer/pixelos-playgroundtc",
         "branch": "17",
         "name": "clang-playground",
         "binPath": ["./bin"]
@@ -85,14 +85,14 @@
     "AnyKernel3": {
       "use": true,
       "release": true,
-      "repo": "https://github.com/devnoname120/AnyKernel3/",
+      "repo": "https://github.com/hellh4mmer/AnyKernel3",
       "branch": "toco"
     }
   },
   {
     "kernelSource": {
       "name": "VantomKernel",
-      "repo": "https://github.com/devnoname120/kernel_xiaomi_sm6150",
+      "repo": "https://github.com/hellh4mmer/kernel_xiaomi_sm6150",
       "branch": "fifteen",
       "device": "toco",
       "defconfig": "toco_defconfig"
@@ -101,7 +101,7 @@
     "withSUSFS": true,
     "toolchains": [
       {
-        "repo": "https://github.com/devnoname120/pixelos-playgroundtc",
+        "repo": "https://github.com/hellh4mmer/pixelos-playgroundtc",
         "branch": "17",
         "name": "clang-playground",
         "binPath": ["./bin"]
@@ -130,7 +130,7 @@
     "AnyKernel3": {
       "use": true,
       "release": true,
-      "repo": "https://github.com/devnoname120/AnyKernel3/",
+      "repo": "https://github.com/hellh4mmer/AnyKernel3",
       "branch": "toco"
     }
   }
