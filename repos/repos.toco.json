@@ -3,7 +3,7 @@
     "kernelSource": {
       "name": "VantomKernel",
       "repo": "https://github.com/hellh4mmer/kernel_xiaomi_sm6150",
-      "branch": "fourteen",
+      "branch": "fifteen",
       "device": "toco",
       "defconfig": "toco_defconfig"
     },
@@ -48,7 +48,7 @@
     "kernelSource": {
       "name": "VantomKernel",
       "repo": "https://github.com/hellh4mmer/kernel_xiaomi_sm6150",
-      "branch": "fourteen",
+      "branch": "fifteen",
       "device": "toco",
       "defconfig": "toco_defconfig"
     },
@@ -93,7 +93,7 @@
     "kernelSource": {
       "name": "VantomKernel",
       "repo": "https://github.com/hellh4mmer/kernel_xiaomi_sm6150",
-      "branch": "fourteen",
+      "branch": "fifteen",
       "device": "toco",
       "defconfig": "toco_defconfig"
     },
